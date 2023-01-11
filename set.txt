@@ -1,0 +1,20 @@
+Go to Applications > Exploitation Tools > SET Social Engineering Tool
+1 2 3 2
+Now it will prompt for IP address for the PostBack in Harvester/Tabnabbing
+ip of kali
+url www.facebook.com
+email
+
+Social engineering toolkit is a free and open-source tool which is used for social engineering attacks like phishing, sending SMS, faking phone, etc. It is a free tool that comes with Kali Linux, or we can download and install it directly from Github. The Social Engineering Toolkit is designed and developed by a programmer named Dave Kennedy. Security researchers and penetration testers use this tool to check cybersecurity issues in systems all over the world. The goal of the social engineering toolkit is to perform attacking techniques on their machines. This toolkit also includes website vector attacks and custom vector attacks, which allow us to clone any website, perform phishing attacks.
+Social Engineering Toolkit is free and open source.
+Social Engineering Toolkit is portable, which means we can quickly switch attack vectors.
+Social Engineering Toolkit supports integration with third-party modules.
+Social Engineering Toolkit is already installed in our Kali Linux, but we can also download and install it from Github.
+Social Engineering Toolkit is a multi-platform tool; we can run it in Windows, Linux, and Unix.
+Social Engineering Toolkit contains access to the Fast-Track Penetration Testing platform.
+Social Engineering Toolkit offers various attack vectors like Website Attacks, Infection Media Generator, Website Attacks, etc.
+
+
+
+Social engineering techniques, exploiting humans as information systems' security weakest link, are mostly the initial attack vectors within larger intrusions and information system compromises. In order to practically evaluate the risks of information leakage trough the target organizations' employees, when performing a penetration test, an ethical hacker must consider social engineering as a very important aspect of the performed test. Social Engineering Toolkit (SET) is an integrated set of tools designed specifically to perform advanced attacks against the human element, and is the most advanced, if not the only toolkit of such kind that is publicly available as open source software. Incorporating many social engineering attack vectors, it heavily depends on Metasploit, an integrated penetration testing framework. This paper gives a brief introduction to the Social Engineering Toolkit software architecture, and provides an overview of supported attack vectors.
+Social Engineer Toolkit is an open source tool to perform online social engineering attacks. The tool can be used for various attack scenarios including spear phishing and website attack vectors. Social Engineer Toolkit works in an integrated manner with Metasploit. It enables the execution of client-side attacks and seamless harvesting of credentials. With Social Engineer Toolkit, one can backdoor an executable and send it to the victim. It can automatically create fake login pages of a given website and spawn a server to listen to returning connections
